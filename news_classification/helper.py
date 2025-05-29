@@ -1,9 +1,15 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+import seaborn as sns
 
 import re
 import string
 
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 
 
