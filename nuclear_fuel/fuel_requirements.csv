@@ -1,0 +1,6 @@
+reactor_type,initial_core_tU_per_GW,reload_tU_per_GW
+PWR,85,25
+BWR,75,23
+EPR,90,27
+PHWR,60,15
+APR,88,26

@@ -1,0 +1,11 @@
+country,plant_id,reactor_type,capacity_MW,startup_year,refueling_cycle_years
+USA,P1,PWR,1200,2026,1.5
+USA,P2,BWR,1000,2029,2
+China,P1,PWR,1100,2025,1.5
+China,P2,PWR,1100,2027,1.5
+France,P1,EPR,1600,2028,1.5
+France,P2,EPR,1600,2031,1.5
+India,P1,PHWR,700,2026,1
+India,P2,PHWR,700,2028,1
+UAE,P1,APR,1400,2027,1.5
+UAE,P2,APR,1400,2030,1.5
